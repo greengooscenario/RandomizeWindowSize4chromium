@@ -1,15 +1,6 @@
-# specific to djViewsInSpace: don't distribute the images the user has worked on with this program
-
-*.jpg
-*.jpeg
-*.JPG
-*.JPEG
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+# greengooscenario special
+*.orig
+*.good
 
 # vim specifics:
 *~

@@ -12,6 +12,6 @@
   "background": {
     "service_worker": "action.js"
   },
-  "permissions": ["windows", "system.display"]
+  "permissions": ["system.display"]
 }
 
